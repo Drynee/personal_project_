@@ -1,0 +1,3 @@
+id,name,type,category,amount,frequency,start_date,next_date,active
+1,Emprestimo,expense,Fixo,1000.0,monthly,2026-02-28 00:00:00,2026-02-28 00:00:00,True
+2,Salário,income,Fixo,5269.74,monthly,2026-02-28,2026-02-28,True
